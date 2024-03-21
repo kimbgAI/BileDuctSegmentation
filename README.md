@@ -14,7 +14,7 @@
 
 **Original video**
 
-![test_video.gif](https://github.com/kimbgAI/BileDuctSegmentation/blob/main/inferenced_test_video.gif)
+![test_video.gif](https://github.com/kimbgAI/BileDuctSegmentation/blob/main/test_video.gif)
 
 **Inferenced video**
 
